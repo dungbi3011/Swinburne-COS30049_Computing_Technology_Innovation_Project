@@ -1,0 +1,17 @@
+Project design report presented based upon multiple references, includes 2) References – correct number, cited and referenced correctly	0.5 / 1 pts
+
+Project design report presented based upon multiple references, includes 4) Appropriate understanding of the project requirements	3 / 5 pts
+
+Front-end development (static website), includes 2) Logical organization of content and pages	1 / 2 pts
+
+Front-end development (static website), includes 3) Responsiveness on different screen sizes	0.5 / 1 pts
+
+Front-end development (static website), includes 4) Reflect project core function requirements in the system	9 / 12 pts
+
+Front-end development (static website), includes 5) Proper code comments inside the file	not enough comment
+
+Front-end development (static website), includes 6) Clean and well structured source code and program files
+meta - keywords: incorrect content;
+Should optimize the folders
+No index file
+Should have a sharing style file for all pages for menu...
